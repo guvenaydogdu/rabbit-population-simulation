@@ -1,0 +1,10 @@
+Bir kümeste t=0 anında 1 erkek ve 1 dişi tavşan var.
+Config dosyasından okunan parametrik değişkenler kullanılarak tavşanların popülasyonları hesaplanır.
+
+Değişkenler:
+    Erkek tavşanların ömrü,
+    Dişi tavşanların ömrü,
+    Dişi tavşanların bir seferde doğurduğu tavşan adedi,
+    Doğumların dişi erkek yüzdesi,
+    Hamilelik evresinin süresi,
+    Dişi tavşanların doğurganlıklarını yitirme süreleri.
